@@ -1,0 +1,27 @@
+{
+  "name": "counter-object",
+  "version": "1.0.0",
+  "description": "Counter-object homework assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mclise/counter-object.git"
+  },
+  "author": "mclise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mclise/counter-object/issues"
+  },
+  "homepage": "https://github.com/mclise/counter-object",
+  "dependencies": {
+    "express": "^4.8.4"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-http": "^0.4.0",
+    "mocha": "^1.21.4"
+  }
+}
